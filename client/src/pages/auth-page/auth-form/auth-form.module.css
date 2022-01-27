@@ -1,0 +1,23 @@
+.authContainer {
+    margin: 0 auto;
+    width: 50vw;
+    height: 100vh;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+}
+
+.authFormSubtitle {
+    color: rgb(180, 184, 193);
+}
+
+.authFormInput {
+
+}
+
+.authForm {
+    max-width: 360px;
+}

@@ -1,0 +1,19 @@
+.authorPageContainer {
+    width: 35vw;
+    height: 100vh;
+    padding: 20px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+}
+
+.authFormSubtitle {
+    color: rgb(180, 184, 193);
+}
+
+.authForm {
+    max-width: 360px;
+}

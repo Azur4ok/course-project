@@ -1,0 +1,5 @@
+.authPage {
+    height: 100vh;
+    background: no-repeat url("https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2020%2F07%2F21%2Fcascade-mountains-range-USMNTNS0720.jpg");
+    background-size: cover;
+}
