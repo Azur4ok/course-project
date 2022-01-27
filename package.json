@@ -1,0 +1,8 @@
+{
+  "name": "course-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Azur4ok/course-project",
+  "author": "Aziz Isanov <alberkrush322@gmail.com>",
+  "license": "MIT"
+}
